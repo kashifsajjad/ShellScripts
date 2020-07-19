@@ -1,3 +1,3 @@
 # Shell Scripts for practice
 
-by vPractice.pk
+by www.Practice.pk
