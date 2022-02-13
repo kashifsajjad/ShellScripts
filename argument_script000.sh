@@ -9,3 +9,8 @@ echo The second argument is $2
 echo The third argument is $3
 echo The third argument is $4
 echo The third argument is $5
+
+echo The third argument is $3
+echo The third argument is $4
+echo The third argument is $5
+
